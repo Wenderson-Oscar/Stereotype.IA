@@ -2,6 +2,10 @@
 
 A Stereotype.IA é uma Inteligência Artificial `estendida da Gemini`, uma IA do `Google`.
 
+## Exemplo
+
+[Stereotype.IA](/screens/img.png)
+
 ## O que é a Stereotype.IA?
 
 A `Stereotype.IA` é uma Inteligência Artificial desenvolvida para responder perguntas com um `tom de arrogância`, seguindo o `estereótipo` de como muitas pessoas imaginam que uma IA se comportaria. Ela foi projetada para exibir respostas que refletem essa percepção comum, proporcionando uma experiência única e divertida de interação com a tecnologia.
@@ -14,6 +18,32 @@ A `Stereotype.IA` é uma IA `fictícia` criada para fins de entretenimento e nã
 # Tutorial
 
 Para começar a usar a Stereotype.IA, basta seguir os passos abaixo:
+
+### 1. Clonando o Repositório
+
+```bash
+git clone https://github.com/Wenderson-Oscar/Stereotype.IA.git
+```
+
+Abra no terminal o diretório do projeto:
+
+### 2. Instalando as dependências
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Crie um arquivo `.env` na raiz do projeto e adicione a seguinte variável de ambiente
+    
+```bash
+API_KEY="YOUR_API_KEY"
+```
+
+### 4. Inicie o servidor
+
+```bash
+chainlit run chatbot.py -w
+```
 
 # Referências
 
