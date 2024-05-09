@@ -2,6 +2,8 @@
 
 A Stereotype.IA é uma Inteligência Artificial `estendida da Gemini`, uma IA do `Google`.
 
+### Em Desenvolvimento!
+
 ## Exemplo
 
 [Stereotype.IA](/screens/img.png)
