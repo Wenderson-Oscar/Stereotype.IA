@@ -25,7 +25,12 @@ Para começar a usar a Stereotype.IA, basta seguir os passos abaixo:
 git clone https://github.com/Wenderson-Oscar/Stereotype.IA.git
 ```
 
-Abra no terminal o diretório do projeto:
+Abra no terminal o diretório do projeto e crie uma ambiente virtual:
+
+```bash
+python3 -m venv venv # criar o ambiente virtual
+source venv/bin/activate #ativar o ambiente virtual
+```
 
 ### 2. Instalando as dependências
 
